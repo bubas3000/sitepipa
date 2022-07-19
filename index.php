@@ -171,7 +171,7 @@
 						</div>
 					</div>
 					<div class="form-popup" id="myForm">
-						<form action="https://script.google.com/macros/s/AKfycbyLrUPRE0N0hNhDcYCiSs4Dq2YHCKDtKSmD0a0lxdrDKQSloQiIMJMa0nwhwOAEOZ6v/exec" method="POST" id="Presentes" class="form-container">
+						<form action="" method="POST" id="Presentes" class="form-container">
 						  <h1><strong>Para que possamos agradecer</strong></h1>
 					  
 						  <!--<label for="email"><b>Email</b></label>-->
@@ -416,7 +416,7 @@
 						</div>
 						<div class="row animate-box">
 							<div class="col-md-10 col-md-offset-1">
-								<form action="https://script.google.com/macros/s/AKfycbzThkQz1BP5kU97W4JRs45YpEBW3as3VFikqjQ8f8chNniIHq5yU8sA1ApMyqH-RSls/exec" method="POST" id="Musica" class="form-inline">
+								<form action="" method="POST" id="Musica" class="form-inline">
 									<div class="col-md-4 col-sm-4">
 										<div class="form-group">
 											<label for="name" class="sr-only">Música</label>
@@ -472,7 +472,7 @@
 							<button type="submit" class="btn ft" onclick="openForm1()">RSVP</button>
 						</div>
 						<div class="form-popup" id="myForm1">
-							<form method="POST" action="https://script.google.com/macros/s/AKfycbzl2mRGYdIT3LrkvMLd0dcEz2G1_A6OaCf4fTS4dA3tEstFKdmQVVsDjsz7aIGz5w_16Q/exec"  class="form-container" id = "rsvp">
+							<form method="POST" action=""  class="form-container" id = "rsvp">
 							  <h1><strong>Confirme a sua presença</strong></h1>
 						  
 							  <!--<label for="email"><b>Email</b></label>-->
