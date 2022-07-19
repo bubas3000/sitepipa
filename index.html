@@ -113,7 +113,7 @@
 					</div>
 					<div class="col-md-6 text-center animate-box">
 						<div class="wedding-events">
-							<div class="ceremony-bg" style="background-image: url(images/Pipa\ festa.jfif);"></div>
+							<div class="ceremony-bg" style="background-image: url(images/Pipa\ festa1.jfif);"></div>
 							<div class="desc">
 								<h3><strong>Festa</strong></h3>
 								<p><strong>Quinta do Monfalim</strong></p>
