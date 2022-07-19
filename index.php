@@ -144,7 +144,7 @@
 								<div class="ceremony-bg" style="background-image: url(images/regressoacasa.jfif);"></div>
 								<p><br>Queremos que a festa seja memorável e sem preocupações.</br>
 								Para quem precisar de transporte para regressar a casa, pode contactar:</p>
-								<p><strong>Vasco Evangelho: 965 062 987</strong></p>
+								<!--<p><strong>Vasco Evangelho: 965 062 987</strong></p>-->
 							</div>
 						</div>
 					</div>
