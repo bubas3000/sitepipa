@@ -42,8 +42,9 @@
 	
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz@6..96&display=swap" rel="stylesheet">
-	
+	<!--<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz@6..96&display=swap" rel="stylesheet">-->
+	<link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet">
+
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<!-- Icomoon Icon Fonts-->
@@ -116,7 +117,7 @@
 							<div class="ceremony-bg" style="background-image: url(images/Pipa\ festa1.jfif);"></div>
 							<div class="desc">
 								<h3><strong>Festa</strong></h3>
-								<p><strong>Quinta do Monfalim</strong></p>
+								<p><strong>Quinta de Monfalim</strong></p>
 								<p><strong><i class="icon-map"></i> Rua de São Pedro 4, 2590-278</strong></p>
 								<form action="https://goo.gl/maps/waEgXoX5ZLw8bxb59" method="get" target="_blank">
 									<button type="submit" class="btn btn-primary btn-block">Mapa</button>
@@ -211,7 +212,7 @@
 	
 			</script>
 			<style>
-				body {font-family: Bodoni;}
+				body {font-family: "Alice",serif;}
 				* {box-sizing: border-box;}
 				
 				/* The popup form - hidden by default */

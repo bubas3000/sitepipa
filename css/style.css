@@ -13,7 +13,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Bodoni Moda";
+  font-family: "Alice";
   line-height: 1.6;
   font-size: 16px;
   background: #fff;
@@ -42,12 +42,12 @@ p, ul, ol {
   margin-bottom: 1.5em;
   font-size: 16px;
   color: #848484;
-  font-family: "Bodoni Moda";
+  font-family: "Alice";
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #4B756A;
-  font-family: "Bodoni Moda";
+  font-family: "Alice";
   font-weight: 300;
   margin: 0 0 30px 0;
 }
