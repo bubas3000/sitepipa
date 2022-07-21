@@ -101,8 +101,8 @@
 						<div class="wedding-events">
 							<div class="ceremony-bg" style="background-image: url(images/igreja.jpg);"></div>
 							<div class="desc">
-								<h3><strong>Igreja</strong></h3>
-								<p><strong>Igreja de Santo Quintino</strong></p>
+								<h3><strong>Cerimónia</strong></h3>
+								<p><strong>Igreja de Santo Quintino - 15h30</strong></p>
 								
 								<p><strong> <i class="icon-map"></i> Largo Dom Manuel Primeiro, Santo Quintino</strong></p>
 								<form action="https://goo.gl/maps/hL91yszkQrktyegr7" method="get" target="_blank">
@@ -117,7 +117,7 @@
 							<div class="ceremony-bg" style="background-image: url(images/Pipa\ festa1.jfif);"></div>
 							<div class="desc">
 								<h3><strong>Festa</strong></h3>
-								<p><strong>Quinta de Monfalim</strong></p>
+								<p><strong>Quinta de Monfalim - 17h30</strong></p>
 								<p><strong><i class="icon-map"></i> Rua de São Pedro 4, 2590-278</strong></p>
 								<form action="https://goo.gl/maps/waEgXoX5ZLw8bxb59" method="get" target="_blank">
 									<button type="submit" class="btn btn-primary btn-block">Mapa</button>
@@ -131,7 +131,7 @@
 							<h2><br></h2>
 							<div class="wedding-events">
 								<p>Queremos que este dia seja passado com as pessoas de quem mais gostamos, de forma segura e confortável para todos.</p>
-								<p>Pedimos, por favor, que façam um dos seguintes testes e que enviem para o mail <strong>filipaegoncalo.casamento@gmail.com</strong></p>
+								<p>Neste sentido, pedimos, por favor, que façam um dos seguintes testes e que enviem para o mail <strong>filipaegoncalo.casamento@gmail.com</strong></p>
 								<p><strong>Antigénio até 24h antes<br>
 									Autoteste no dia</strong></p>
 							</div>
@@ -142,9 +142,10 @@
 							<h2><br><strong>Regresso a Casa</strong></h2>
 							<div class="wedding-events">
 								<div class="ceremony-bg" style="background-image: url(images/regressoacasa.jfif);"></div>
-								<p><br>Queremos que a festa seja memorável e sem preocupações.</br>
+								<p><br>Queremos que seja um dia inesquecível. E também por isso a noite promete ser longa, mas sem preocupações.</br>
 								Para quem precisar de transporte para regressar a casa, pode contactar:</p>
-								<!--<p><strong>Vasco Evangelho: 965 062 987</strong></p>-->
+								<p><strong>Vasco Evangelho: 965 062 987</strong></p>
+								<p>Só há uma regra: não ir embora antes de nos dar um abraço!</p>
 							</div>
 						</div>
 					</div>
@@ -153,16 +154,25 @@
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 							<h2><br><strong>Presentes de Casamento</strong></h2>
 							<div class="wedding-events">
-							<p>O mais importante é estarem connosco a celebrar este dia tão importante das nossas vidas. Aos que quiserem ajudar-nos nesta nova etapa da nossa vida, ficamos muito agradecidos.</p>
-								<p><strong>IBAN: PT50 0269 0113 00200560232 37</strong>
-								<br><strong><strong>MBWAY: 918 942 493</strong></strong></p></div>
+							<p>Querida Família e Amigos, obrigada por nos acompanharem, a vossa presença é o mais importante neste dia. Para poderem ajudar-nos neste novo início, deixamos o nib para o qual podem contribuir com o valor que pretendam. Pedimos, por favor, que indiquem o nome na transferência para que possamos agradecer individualmente.</p>
+								<p><strong>IBAN: PT50 0269 0391 0020 5654 5860 5</strong>
+								<br><strong><strong>MBWAY: 918 942 493 | 917 596 963</strong></strong></p></div>
 								<!--<p><strong>Nome: Filipa Sofia Vaz Ramires G da Costa</strong></p>-->
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
+					<div class="row row-bottom-padded-md">
+						<div class="col-md-6 text-center animate-box">
 							<div class="wedding-events">
-								<div class="ceremony-bg" style="background-image: url(images/safari.jpg);"></div>
+								<div class="ceremony-bg" style="background-image: url(images/casa1.jpg);"></div>
+								<div class="desc">
+									<button class="btn btn-primary btn-block" onclick="openForm()">Casa</button>
+									<!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>-->
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 text-center animate-box">
+							<div class="wedding-events">
+								<div class="ceremony-bg" style="background-image: url(images/zanzibar.jpeg);"></div>
 								<div class="desc">
 									<button class="btn btn-primary btn-block" onclick="openForm()">Lua de Mel</button>
 									<!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>-->
@@ -467,7 +477,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h2>Filipa e Gonçalo</h2>
-							<p>Estamos ansiosos por festejar convosco! Confirmem a vossa presença, até dia</p>
+							<p>Estamos ansiosos por festejar convosco! Confirmem a vossa presença, até dia 1 de Setembro.</p>
 							<p>Filipa: +351 918 942 493 | Gonçalo: +351 917 596 963</p>
 							<button type="submit" class="btn ft" onclick="openForm1()">RSVP</button>
 						</div>
