@@ -126,7 +126,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="row">
+					<!--<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 							<h2><br></h2>
 							<div class="wedding-events">
@@ -135,12 +135,12 @@
 								<p><strong>Antigénio até 24h antes<br>
 									Autoteste no dia</strong></p>
 							</div>
-								<!--<p><strong>Nome: Filipa Sofia Vaz Ramires G da Costa</strong></p>-->
+								<p><strong>Nome: Filipa Sofia Vaz Ramires G da Costa</strong></p>
 						</div>
-					</div>
+					</div>-->
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-							<h2><strong>Regresso a Casa</strong></h2>
+							<h2><br><strong>Regresso a Casa</strong></h2>
 							<div class="wedding-events">
 								<div class="ceremony-bg" style="background-image: url(images/regressoacasa.jfif);"></div>
 								<p><br>Queremos que a festa seja memorável e sem preocupações.</br>
@@ -417,7 +417,7 @@
 						</div>
 						<div class="row animate-box">
 							<div class="col-md-10 col-md-offset-1">
-								<form action="" method="POST" id="Musica" class="form-inline">
+								<form action="https://script.google.com/macros/s/AKfycbxGILwx4reQWv2rEomw7lNQRzcC9ojwvzi0EHzyV96AQU0U3uwgxYN6dkOnuKHsgPVdHw/exec" method="POST" id="Musica" class="form-inline">
 									<div class="col-md-4 col-sm-4">
 										<div class="form-group">
 											<label for="name" class="sr-only">Música</label>
@@ -473,7 +473,7 @@
 							<button type="submit" class="btn ft" onclick="openForm1()">RSVP</button>
 						</div>
 						<div class="form-popup" id="myForm1">
-							<form method="POST" action=""  class="form-container" id = "rsvp">
+							<form method="POST" action="https://script.google.com/macros/s/AKfycbw_t_wxzGyzV_Yq_Wd1ZCVN7UPQbc3NoH3WGkuXuthl4ZPLtWT1Fl9oCrPyZoLkWbqsUA/exec"  class="form-container" id = "rsvp">
 							  <h1><strong>Confirme a sua presença</strong></h1>
 						  
 							  <!--<label for="email"><b>Email</b></label>-->
