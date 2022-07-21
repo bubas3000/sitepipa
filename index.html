@@ -126,7 +126,7 @@
 							</div>
 						</div>
 					</div>
-					<!--<div class="row">
+					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 							<h2><br></h2>
 							<div class="wedding-events">
@@ -135,9 +135,8 @@
 								<p><strong>Antigénio até 24h antes<br>
 									Autoteste no dia</strong></p>
 							</div>
-								<p><strong>Nome: Filipa Sofia Vaz Ramires G da Costa</strong></p>
 						</div>
-					</div>-->
+					</div>
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 							<h2><br><strong>Regresso a Casa</strong></h2>
@@ -154,7 +153,7 @@
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 							<h2><br><strong>Presentes de Casamento</strong></h2>
 							<div class="wedding-events">
-							<p>A todos os que quiserem ajudar-nos neste novo início, ficamos muito agradecidos. Da viagem à nossa casa, onde iremos querer receber-vos num futuro muito próximo.</p>
+							<p>O mais importante é estarem connosco a celebrar este dia tão importante das nossas vidas. Aos que quiserem ajudar-nos nesta nova etapa da nossa vida, ficamos muito agradecidos.</p>
 								<p><strong>IBAN: PT50 0269 0113 00200560232 37</strong>
 								<br><strong><strong>MBWAY: 918 942 493</strong></strong></p></div>
 								<!--<p><strong>Nome: Filipa Sofia Vaz Ramires G da Costa</strong></p>-->
@@ -172,7 +171,7 @@
 						</div>
 					</div>
 					<div class="form-popup" id="myForm">
-						<form action="" method="POST" id="Presentes" class="form-container">
+						<form action="https://script.google.com/macros/s/AKfycbwWVvmlYd5utm8w3hgi-mnk_zPzjHpgaZBTeE_jlbazblsuD96byZa31i3VeYht6jDYyg/exec" method="POST" id="Presentes" class="form-container">
 						  <h1><strong>Para que possamos agradecer</strong></h1>
 					  
 						  <!--<label for="email"><b>Email</b></label>-->
