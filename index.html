@@ -154,7 +154,7 @@
 						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
 							<h2><br><strong>Presentes de Casamento</strong></h2>
 							<div class="wedding-events">
-							<p>Querida Família e Amigos, obrigada por nos acompanharem, a vossa presença é o mais importante neste dia. Para poderem ajudar-nos neste novo início, deixamos o nib para o qual podem contribuir com o valor que pretendam. Pedimos, por favor, que indiquem o nome na transferência para que possamos agradecer individualmente.</p>
+							<p>Querida Família e queridos Amigos, se desejarem colaborar para a nova fase da nossa vida deixamos NIB, pedindo que indiquem o nome na transferência para que possamos agradecer individualmente.</p>
 								<p><strong>IBAN: PT50 0269 0391 0020 5654 5860 5</strong>
 								<br><strong><strong>MBWAY: 918 942 493 | 917 596 963</strong></strong></p></div>
 								<!--<p><strong>Nome: Filipa Sofia Vaz Ramires G da Costa</strong></p>-->
